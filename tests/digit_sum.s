@@ -4,7 +4,7 @@
 # r0 = target number
 #
 # return:
-# r0 = sum of his digits
+# r0 = sum of its digits
 
 .text
 digit_sum:
